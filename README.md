@@ -1,8 +1,6 @@
 # BANANEO-GAMES-CORPORATION
 Pagina web de videojuegos 
 
-![cup-head-cuphead (1)](https://github.com/user-attachments/assets/419b5c4d-8a00-4bdd-96fc-a32c727eaece)
-
 
 <h1>OBJETIVOS.</h1>
 <em>Realizar un espacio interactivo para el usuario donde pueda encontrar un catalogo de juegos variados.</em>
