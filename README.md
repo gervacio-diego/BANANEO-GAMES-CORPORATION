@@ -10,7 +10,12 @@ Pagina web de videojuegos
 
 <samp>2.-La web contara con un extenso catalogo de videojugos, este catalogo abarcara desde el año 1990 hasta el año 2010, esto respetando los lineamientos de derechos de autor y el uso libre de estos mismos.</samp>
 
+<samp>El sistema web debe ser totalmente compatible y funcionar correctamente en multiples navegadores(Google, chrome, Mozila Firefox, Microft edge, Safari)</samp>
+
+
 <table><tr><td>Requisitos funcionales.</td></tr></table>
 <samp>1.-La plataforma deberá mostrar un catálogo completo de juegos, con opciones de búsqueda y filtros por género, fecha de lanzamiento, y calificaciones.</samp>
 
 <samp>2.-Los usuarios deberán poder calificar y dejar reseñas sobre los juegos que han jugado, contribuyendo a la comunidad.</samp>
+
+<samp>El sistema permitira a los usuarios registrarse, iniciar sesion, cerrar sesion y acceder como invitado desde la pagina principal de la plataforma web.</samp>
