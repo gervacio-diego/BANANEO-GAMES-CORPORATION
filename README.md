@@ -12,6 +12,10 @@ Pagina web de videojuegos
 
 <samp>3.-El sistema web debe ser totalmente compatible y funcionar correctamente en multiples navegadores(Google, chrome, Mozila Firefox, Microft edge, Safari)</samp>
 
+<samp>4.-El tiempo de carga del sistema no rebasará los cinco segundos.</samp>
+
+<samp>5.-La página debe garantizar la seguridad y privacidad de los usuarios, protegiendo su información personal.</samp>
+
 
 <table><tr><td>Requisitos funcionales.</td></tr></table>
 <samp>1.-La plataforma deberá mostrar un catálogo completo de juegos, con opciones de búsqueda y filtros por género, fecha de lanzamiento, y calificaciones.</samp>
@@ -19,3 +23,8 @@ Pagina web de videojuegos
 <samp>2.-Los usuarios deberán poder calificar y dejar reseñas sobre los juegos que han jugado, contribuyendo a la comunidad.</samp>
 
 <samp>3.-El sistema permitira a los usuarios registrarse, iniciar sesion, cerrar sesion y acceder como invitado desde la pagina principal de la plataforma web.</samp>
+
+<samp>4.-El sistema deberá cargar un listado de clasificaciones y líderes. </samp>
+
+<samp>5.-El sistema permitirá ajustes de configuración, como idioma, sonido, entre otros. </samp>
+
