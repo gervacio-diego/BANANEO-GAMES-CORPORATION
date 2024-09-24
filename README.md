@@ -16,6 +16,6 @@ Pagina web de videojuegos
 <table><tr><td>Requisitos funcionales.</td></tr></table>
 <samp>1.-La plataforma deberá mostrar un catálogo completo de juegos, con opciones de búsqueda y filtros por género, fecha de lanzamiento, y calificaciones.</samp>
 
-<samp>2.-Los usuarios deberán poder calificar y dejar reseñas sobre los juegos que han jugado, contribuyendo a la comunidad.</samp>
+<samp>2.-Los usuarios podran dejar reseñas sobre los juegos que han jugado, contribuyendo a la comunidad.</samp>
 
 <samp>3.-El sistema permitira a los usuarios registrarse, iniciar sesion, cerrar sesion y acceder como invitado desde la pagina principal de la plataforma web.</samp>
