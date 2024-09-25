@@ -1,4 +1,6 @@
 <table><tr><td>Requisitos no funcionales.</td></tr></table> 
 <samp>El sistema web debe ser totalmente compatible y funcionar correctamente en multiples navegadores(Google, chrome, Mozila Firefox, Microft edge, Safari)</samp>
+<samp>El sistema contara con una regulacion en el cual se bloquearan el lenguaje inapropiados.</samp>
 <table><tr><td>Requisitos funcionales.</td></tr></table>
 <samp>El sistema permitira a los usuarios registrarse, iniciar sesion, cerrar sesion y acceder como invitado desde la pagina principal de la plataforma web.</samp>
+<samp>El usuario tendra la libertad de poder generar una lista de los titulos de su agrado/juegos favoritos.</samp>
