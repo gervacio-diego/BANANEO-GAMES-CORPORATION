@@ -1,6 +1,7 @@
 # 🍌🐲 BANANEO-GAMES-CORPORATION 🐲🍌
 Pagina web de videojuegos 
 
+
 <br>
 
 > [!OBJETIVOS]
@@ -28,3 +29,7 @@ Requisitos no funcionales.</samp>
 <samp>2.-Los usuarios podran dejar reseñas sobre los juegos que han jugado, contribuyendo a la comunidad.</samp>
 
 <samp>3.-El sistema permitira a los usuarios registrarse, iniciar sesion, cerrar sesion y acceder como invitado desde la pagina principal de la plataforma web.</samp>
+
+<samp>4.-Al momento de que el usario salga de la ventana, si hay algun juego en proceso se pausara automaticamente.</samp>
+
+<samp>5.-La pagina podrá permitirle a los usuarios buscar juegos por medio de filtros.</samp>
