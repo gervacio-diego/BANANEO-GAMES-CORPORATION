@@ -37,7 +37,7 @@ Pagina web de videojuegos
 
 <samp>4.-El sistema contara con un apartado de personalizacion de frames per second (FPS), permitiendo al usuario ajustarlo de acuerdo a las especificaciones de su equipo.</samp>
 
-<samp>5.-1.Habra un apartado en el que podras calificar cada juego con el que hayas interactuado, las calificacion sera apartir de una estrella como minimo y 5 como maximo.</samp>
+<samp>5.-Habra un apartado en el que podras calificar cada juego con el que hayas interactuado, las calificacion sera apartir de una estrella como minimo y 5 como maximo.</samp>
 
 <samp>6.-Los usuarios podrán buscar y agregar las cuentas de sus amigos.</samp>
 
