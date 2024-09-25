@@ -1,4 +1,4 @@
-# 🐲🍌 BANANEO-GAMES-CORPORATION 🐲🍌
+# 🍌🐲 BANANEO-GAMES-CORPORATION 🐲🍌
 Pagina web de videojuegos 
 
 
