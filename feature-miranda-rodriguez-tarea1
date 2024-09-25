@@ -1,0 +1,12 @@
+Requisitos No Funcionales:
+La página deberá tener la capacidad de mantener un alto número de usuarios y videojuegos, sin que esta pierda rendimiento.
+El sistema debe mantenerse disponible el 100% del tiempo.
+La página deberá contar con una buena arquitectura del sistema de manera que a la hora de agregar nuevas funcionalidades o actualizaciones esto no afecte el rendimiento.
+El sistema deberá adaptarse a diferentes tamaños de pantalla sin que éste pierda funcionalidad.
+Usar herramientas de monitorización para el aseguramiento de la disponibilidad del sistema y así poder detectar rápidamente si ocurre un problema.
+Requisitos Funcionales:
+Los usuarios deben visualizar un resumen de cada videojuego que seleccionan.
+Se deberá enviar un correo de confirmación por cada registro de un nuevo usuario.
+Permitir a los usuarios elegir activar o no si desea recibir notificaciones.
+Incluir un sistema de feedback donde los usuarios puedan sugerir mejoras o reportar problemas.
+Añadir íconos que permitan al usuario redirigirse inmediatamente a las redes sociales de la página.
