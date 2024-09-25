@@ -1,4 +1,4 @@
-# 🐲🍌 BANANEO-GAMES-CORPORATION 🐲🍌
+# 🍌🐲 BANANEO-GAMES-CORPORATION 🐲🍌
 Pagina web de videojuegos 
 
 
@@ -10,15 +10,20 @@ Pagina web de videojuegos
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
-<table><tr><td>🐲🟢Requisitos no funcionales🟢.</td></tr></table>
+<table><tr><td>🔴🐲Requisitos no funcionales🐲🔴.</td></tr></table>
 <samp>1.-La interfaz de usuario deberá ser intuitiva y fácil de navegar, permitiendo a los usuarios localizar y seleccionar juegos con rapidez y sin dificultades.</samp>
 
 <samp>2.-La web contara con un extenso catalogo de videojugos, este catalogo abarcara desde el año 1990 hasta el año 2010, esto respetando los lineamientos de derechos de autor y el uso libre de estos mismos.</samp>
 
 <samp>3.-El sistema web debe ser totalmente compatible y funcionar correctamente en multiples navegadores(Google, chrome, Mozila Firefox, Microft edge, Safari).</samp>
 
+<samp>4.-El sistema contara con un apartado de personalizacion de frames per second (FPS), permitiendo al usuario ajustarlo de acuerdo a las especificaciones de su equipo.</samp>
 
-<table><tr><td>🔴🐲Requisitos funcionales🐲🔴.</td></tr></table>
+<samp>5.-1.Habra un apartado en el que podras calificar cada juego con el que hayas interactuado, las calificacion sera apartir de una estrella como minimo y 5 como maximo
+Requisitos no funcionales.</samp>
+
+
+<table><tr><td>🟢🐲Requisitos funcionales🐲🟢.</td></tr></table>
 <samp>1.-La plataforma deberá mostrar un catálogo completo de juegos, con opciones de búsqueda y filtros por género, fecha de lanzamiento, y calificaciones.</samp>
 
 <samp>2.-Los usuarios podran dejar reseñas sobre los juegos que han jugado, contribuyendo a la comunidad.</samp>
