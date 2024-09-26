@@ -1,0 +1,8 @@
+Requisitos no funcionales
+<sam>El sistema debe realizar copias de seguridad diariamente de la base de datos y los archivos del sitio para garantizar la recuperación en caso de un fallo o perdida</sam>
+<sam>El sistema debe garantizar que los datos personales proporcionados no seran usados para fines comerciales, protegiendo asi la privacidad de los usuarios</sam>
+
+Requisitos funcionales
+<sam>Los usuarios podrán acceder a un tutorial sobre como usar la pagina para facilitar su navegacion</sam>
+<sam>Los usuarios deben poder guardar su progreso en cualquier punto del juego para que puedan reanudar desde donde se quedaron en su proximo inicio de sesion</sam>
+<sam>El sistema debe permitir a los usuarios agregar multiples cuentas para gestionar diferentes perfiles o usuarios</sam>
