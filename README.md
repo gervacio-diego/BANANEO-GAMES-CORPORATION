@@ -5,8 +5,8 @@ Pagina web de videojuegos
 ## <samp>💨🚀Viaje Rapido🚀💨</samp>
 
 - [Introduccion](#introduccion)
-- [🔴🐲Requisitos no funcionales🐲🔴](#--requisitos_no_funcionales--)
-- [🟢🐲Requisitos funcionales🐲🟢](#--requisitos_funcionales--)
+- [Requisitos](#requisitos)
+
 
 ## <samp>Introduccion</samp>
 <br>
@@ -17,10 +17,13 @@ Pagina web de videojuegos
 >
 > <samp>$\color{Yellow}{¿CUAL-ES-EL-OBJETIVO?}$ El objetivo primordial de nuestra plataforma es crear un entorno interactivo y ameno, en el cual los usuarios puedan acceder a un extenso catálogo de juegos variados. Nos proponemos ofrecer una experiencia lúdica enriquecedora, que fomente la diversión y la creatividad, permitiendo que cada jugador descubra y disfrute de una diversidad de opciones que se adaptan a sus preferencias y estilos de juego.</samp>
 
+
+
+## <samp>Requisitos</samp>
 ___
 
+<table><tr><td>🔴🐲Requisitos no funcionales🐲🔴.</td></tr></table>
 
-## <table><tr><td>🔴🐲Requisitos no funcionales🐲🔴.</td></tr></table>
 ___
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -61,7 +64,7 @@ ___
 
 ___
 
-## <table><tr><td>🟢🐲Requisitos funcionales🐲🟢.</td></tr></table>
+<table><tr><td>🟢🐲Requisitos funcionales🐲🟢.</td></tr></table>
 
 ___
 <samp>1.-La plataforma deberá mostrar un catálogo completo de juegos, con opciones de búsqueda y filtros por género, fecha de lanzamiento, y calificaciones.</samp>
