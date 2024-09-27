@@ -10,7 +10,15 @@ Pagina web de videojuegos
 
 <samp>2.-La web contara con un extenso catalogo de videojugos, este catalogo abarcara desde el año 1990 hasta el año 2010, esto respetando los lineamientos de derechos de autor y el uso libre de estos mismos.</samp>
 
+<samp>3.-La web filtrara juegos dependiendo la edad del usuario , la cantidad de juegos que le aparecerá al usuario estará relacionado a la clasificación de edad en los videojuegos dictadada por la junta de clasificación de software de entretenimiento (ESRB).</samp>
+
+<samp>4.-El sistema generara un algoritmo en el cual estara basado en las preferencias y los juegos que mas ha jugado el usuario.
+
 <table><tr><td>Requisitos funcionales.</td></tr></table>
 <samp>1.-La plataforma deberá mostrar un catálogo completo de juegos, con opciones de búsqueda y filtros por género, fecha de lanzamiento, y calificaciones.</samp>
 
 <samp>2.-Los usuarios podran dejar reseñas sobre los juegos que han jugado, contribuyendo a la comunidad.</samp>
+
+<samp>3.-El usuario tendra la oportunidad de crear grupos/clanes de amigos para organizar partidas en los juegos que tengan en comun</samp> 
+
+<samp>4.-
