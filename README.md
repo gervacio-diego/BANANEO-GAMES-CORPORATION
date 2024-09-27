@@ -1,5 +1,5 @@
 # 🍌🐲 BANANEO-GAMES-CORPORATION 🐲🍌
-Pagina web de videojuegos 
+<samp>🕹️Pagina web de videojuegos🕹️</samp>
 
 
 ## <samp>💨🚀Viaje Rapido🚀💨</samp>
