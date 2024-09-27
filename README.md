@@ -42,7 +42,7 @@ ___
 
 <samp>7.-La interfaz tendrá un boton para elegir el idioma para que la pagina web se pueda usar en cualquier país.</samp>
 
-<samp>8.-La interfaz se podra poner en modo oscuro o luminoso a elección del usuario/samp>
+<samp>8.-La interfaz se podra poner en modo oscuro o luminoso a elección del usuario</samp>
 
 <samp>9.-La página deberá tener la capacidad de mantener un alto número de usuarios y videojuegos, sin que esta pierda rendimiento.</samp>
 
