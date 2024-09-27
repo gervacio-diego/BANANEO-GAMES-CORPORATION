@@ -103,8 +103,15 @@ ___
 
 <samp>18.-El sistema debe permitir a los usuarios agregar multiples cuentas para gestionar diferentes perfiles o usuarios.</samp>
 
-<samp>5.-Habra un apartado en el que podras calificar cada juego con el que hayas interactuado, las calificacion sera apartir de una estrella como minimo y 5 como maximo.</samp>
 
-<samp>6.-Los usuarios podrán buscar y agregar las cuentas de sus amigos.</samp>
+____              
+<br>
+        <br>
+    </div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
+</div>
 
-<samp>7.-Los usuarios podrán denunciar cuentas por conductas inapropiadas.</samp>
+## <samp>Página aún en desarrollo :) </samp>
