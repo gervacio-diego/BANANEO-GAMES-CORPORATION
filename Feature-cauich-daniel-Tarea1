@@ -1,6 +1,12 @@
 <table><tr><td>Requisitos no funcionales.</td></tr></table> 
 <samp>El sistema web debe ser totalmente compatible y funcionar correctamente en multiples navegadores(Google, chrome, Mozila Firefox, Microft edge, Safari)</samp>
 <samp>El sistema contara con una regulacion en el cual se bloquearan el lenguaje inapropiados.</samp>
+<samp>Los usuarios deben poder pesonalizar la experiencia de juego(dificultad, controles, etc.)</samp>
+<samp>La informacion personal de los usuarios debe estar protegida de accesos no autorizados.</samp>
+<samp>El sistema debe estar dividido en modulos independientes  para facilitar el mantenimiento.</samp>
 <table><tr><td>Requisitos funcionales.</td></tr></table>
 <samp>El sistema permitira a los usuarios registrarse, iniciar sesion, cerrar sesion y acceder como invitado desde la pagina principal de la plataforma web.</samp>
 <samp>El usuario tendra la libertad de poder generar una lista de los titulos de su agrado/juegos favoritos.</samp>
+<samp>Los usuarios deben poder personalizar su perfil con avatares y descripciones.</samp>
+<sampEl sistema debe ofrecer accesibilidad para usuarios con discapacidades visuales o auditivad(subtitulos, ajustes de color, etc.)></samp>
+<samp>Los usuarios deben recibir alertas sobre actualizaciones importantes en los juegos o en la plataforma. </samp>
