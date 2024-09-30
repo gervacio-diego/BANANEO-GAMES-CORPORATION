@@ -2,5 +2,5 @@ Requisitos funcionales
 1.El sistema contara con un apartado de personalizacion de frames per second (FPS), permitiendo al usuario ajustarlo de acuerdo a las especificaciones de su equipo.
 1.Habra un apartado en el que podras calificar cada juego con el que hayas interactuado, las calificacion sera apartir de una estrella como minimo y 5 como maximo
 Requisitos no funcionales
-1.Al momento de que el usario salga de la ventana, si hay algun juego en proceso se pausara automaticamente.
+1.Al haber un error de red, si hay algun juego en proceso se pausara automaticamente.
 2.Debe funcionar correctamente en una variedad de dispositivos (PCs, smartphones, tablets).
