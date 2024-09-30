@@ -40,7 +40,7 @@ ___
 
 <samp>6.-El sistema web debe ser totalmente compatible y funcionar correctamente en multiples navegadores(Google, chrome, Mozila Firefox, Microft edge, Safari).</samp>
 
-<samp>7.-Los usuarios deben poder pesonalizar la experiencia de juego(dificultad, controles, etc.)</samp>
+<samp>7.-El sistema debe ser capaz de soportar hasta 10000 usuarios concurrentes  sin afectar el rendimiento general bajo mucha carga</samp>
 
 <samp>8-.La informacion personal de los usuarios debe estar protegida de accesos no autorizados.</samp>
 
@@ -91,7 +91,7 @@ ___
 
 <samp>7.-Los usuarios deben poder personalizar su perfil con avatares y descripciones.</samp>
 
-<samp>8.-El sistema debe ofrecer accesibilidad para usuarios con discapacidades visuales o auditivas(subtitulos, ajustes de color, etc).</samp>
+<samp>8.-Los usuarios deben poder pesonalizar la experiencia de juego(dificultad, controles, etc.</samp>
 
 <samp>9.-Los usuarios deben recibir alertas sobre actualizaciones importantes en los juegos o en la plataforma.</samp>
 
