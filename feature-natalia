@@ -1,7 +1,9 @@
 requisitos no funcionales 
 <samp>8.-El tiempo máximo de carga de la página no superará los 3 segundos bajo condiciones estándar de red.</samp>
-<samp>9.-El sitio web implementará un diseño responsivo que garantice visualización y funcionalidad óptima en dispositivos móviles.</samp>
+<samp>9.- El sitio web debe cumplir con todas las leyes y reglamentos aplicables. </samp>
+<samp>10.- El sitio web debe ser intuitivo, fácil de usar y comprender. </samp>
 
 requisitos funcionales
 <samp>8.-La página mostrará de manera estructurada la lista de clasificaciones y los líderes de los videojuegos, actualizándose en tiempo real.</samp>
 <samp>9.-La página proporcionará una descripción detallada de cada videojuego, visible de manera individual al seleccionarlo.</samp>
+<samp>10.-El sitio web implementará un diseño responsivo que garantice visualización y funcionalidad óptima en dispositivos móviles.</samp>
