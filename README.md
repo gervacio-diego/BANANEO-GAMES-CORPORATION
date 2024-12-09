@@ -6,6 +6,7 @@
 
 - [Introduccion](#introduccion)
 - [Requisitos](#requisitos)
+- [FIGMA](#figma)
 
 
 ## <samp>Introduccion</samp>
@@ -104,6 +105,20 @@ ___
 <samp>18.-El sistema debe permitir a los usuarios agregar multiples cuentas para gestionar diferentes perfiles o usuarios.</samp>
 
 
+
+## <samp>FIGMA</samp>
+
+
+<samp>Figma-Diego-Gervacio
+
+![Figma-Diego Gervacio](https://github.com/user-attachments/assets/559cc4dd-9dda-4684-a4a9-8bb179ecc7c8)
+![Figma-Diego Gervacio-Juego interactivo-Zelda](https://github.com/user-attachments/assets/7c959b31-a770-4d8c-a3e7-39a415bafdbb)
+![Figma-Diego Gervacio-Sonic-juego interactivo](https://github.com/user-attachments/assets/01520fcf-b28e-4242-be8c-4ad6591295b9)
+![Figma-Diego Gervacio-StreetF-juego interactivo](https://github.com/user-attachments/assets/6bba77d1-3081-43fb-952e-8abfe65822c0)
+![Figma-Diego Gervacio- Destacados-Juegos Recientes](https://github.com/user-attachments/assets/ab2d3bb3-940a-4681-a15c-2d78e76ad2c6)
+![Figma-Diego Gervacio-TKF-juego interactivo](https://github.com/user-attachments/assets/e0373500-0c2e-4021-a5e9-855dd64ac6a6)
+![Figma-Diego Gervacio-Mario64-juego interactivo](https://github.com/user-attachments/assets/8938188b-6845-490a-ab10-e40a973755b2)
+
 ____              
 <br>
         <br>
@@ -115,3 +130,6 @@ ____
 </div>
 
 ## <samp>Página aún en desarrollo :) </samp>
+
+
+
